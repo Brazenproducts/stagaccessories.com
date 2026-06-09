@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://stagaccessories.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://stagaccessories.com/best-polaris-xpedition-accessories.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagaccessories.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagaccessories.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagaccessories.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://stagaccessories.com/how-to-choose-stagaccessories-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://stagaccessories.com/stagaccessories-reviewed-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://stagaccessories.com/truth-about-stagaccessories-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://stagaccessories.com/no-bs-stagaccessories-guide-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://stagaccessories.com/smart-stagaccessories-shopping-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://stagaccessories.com/stagaccessories-tested-ranked-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://stagaccessories.com/stagaccessories-buyers-handbook-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://stagaccessories.com/best-stagaccessories-without-overpaying.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://stagaccessories.com/what-we-look-for-stagaccessories-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://stagaccessories.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
